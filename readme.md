@@ -1,5 +1,5 @@
 # Ōllamas
-_Ōllamas_ is open source library for calculating sport competition standings. Main idea is to get
+_Ōllamas_ is a Javascript open source library for calculating sport competition standings. Main idea is to get
 data about played matches within a competition as the input, and return calculated league table, or play-off greed, or other formats.
 
 ## Ōllamas WTF?
